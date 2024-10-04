@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Szymon Domagała</h1>
-<h3 align="center">I'm an ICT student exploring IT. Focused on programing and achieving own goals in various fields. At the moment I am developing my skills in web development and I am building a android app.</h3>
+<h3 align="center">I'm an ICT student exploring IT. Focused on programing and achieving own goals in various fields. At the moment I am developing my skills in web development and I am building an android app.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymi611&label=Profile%20views&color=0e75b6&style=flat" alt="szymi611" /> </p>
 
