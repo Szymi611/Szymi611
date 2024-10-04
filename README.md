@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Szymon Domagała</h1>
-<h3 align="center">I'm an ICT student exploring IT. Focused on programing and achieving own goals in various fields. At the moment I am developing my skills in web development and I am building an android app.</h3>
+<h3 align="center">I'm an ICT student exploring IT. Focused on programing and achieving own goals in various fields. At the moment I am developing my skills in web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymi611&label=Profile%20views&color=0e75b6&style=flat" alt="szymi611" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, ANGULAR, REACT.JS, PYTHON, C++, JAVA**
+- 🌱 I’m currently learning **HTML, CSS, JS, REACT.JS.
 
 - 📫 How to reach me **szymondomagala32@gmail.com**
-
-- ⚡ Fun fact **I would like to improve my skills in JavaScript and then learn TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
