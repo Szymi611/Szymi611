@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymi611&label=Profile%20views&color=0e75b6&style=flat" alt="szymi611" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, REACT.JS.
+- 🌱 I’m currently learning HTML, CSS, JS, REACT.JS, NODE.JS.
 
 - 📫 How to reach me **szymondomagala32@gmail.com**
 
