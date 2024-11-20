@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Szymon Domagała</h1>
-<h3 align="center">I'm an ICT student exploring IT. Focused on programing and achieving own goals in various fields. At the moment I am developing my skills in web development</h3>
+
+<h3 align="center"> I'm an ICT student exploring IT. Focused on programing and achieving own goals in various fields. Mainly I am keen on frontend and fullstack development. I would describe myself as a responsible, hard-working and ambitious. Every day i am learning new features which makes me better developer. I finished HTML, CSS, JS course last year and nowadays I finishing React.js course and I have started Node.js (Express.js) course. I have strong basics for futured development and being a fast-learner also is a key trait of my character. I quickly establish relationships with other people thanks to my strong comunication skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymi611&label=Profile%20views&color=0e75b6&style=flat" alt="szymi611" /> </p>
 
