@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Szymon Domagała</h1>
-<h3 align="center">I'm an ICT student exploring IT. Focused on programing and achieving own goals in various fields. At the moment I am developing my skills in web development</h3>
+<h3 align="center">I am a third-year ICT student passionate about
+ programming, new technologies, and achieving my
+ goals in various fields. I am honing my skills in full
+stack development, focusing on React, JavaScript,
+ Node.js, SQL, MongoDB, and REST APIs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymi611&label=Profile%20views&color=0e75b6&style=flat" alt="szymi611" /> </p>
 
