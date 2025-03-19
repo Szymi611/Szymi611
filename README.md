@@ -7,9 +7,9 @@ stack development, focusing on React, JavaScript,
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymi611&label=Profile%20views&color=0e75b6&style=flat" alt="szymi611" /> </p>
 
-- 🌱 I’m currently learning HTML, CSS, JS, REACT.JS, NODE.JS.
-
-- 📫 How to reach me **szymondomagala32@gmail.com**
+- 📫 How to reach me ? 
+   **szymondomagala32@gmail.com**
+   *IG - szymon__domagala*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
