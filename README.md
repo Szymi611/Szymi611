@@ -8,7 +8,7 @@ stack development, focusing on React, JavaScript,
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymi611&label=Profile%20views&color=0e75b6&style=flat" alt="szymi611" /> </p>
 
 <h4> - 📫 How to reach me ? <h4>
-   <p>**szymondomagala32@gmail.com**</p>
+   szymondomagala32@gmail.com
    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
