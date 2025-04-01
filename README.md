@@ -5,8 +5,6 @@
 stack development, focusing on React, JavaScript,
  Node.js, SQL, MongoDB, and REST APIs.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=szymi611&label=Profile%20views&color=0e75b6&style=flat" alt="szymi611" /> </p>
-
 <h4> - 📫 How to reach me ? <h4>
    szymondomagala32@gmail.com
    
